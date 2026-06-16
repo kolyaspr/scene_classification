@@ -1,4 +1,5 @@
 # Классификатор ландшафтов
+# Степан Колясинский
 
 ## Описание проекта
 Веб-приложение для классификации изображений ландшафтов с использованием методов глубокого обучения.
@@ -129,8 +130,10 @@ https://www.kaggle.com/datasets/puneet6060/intel-image-classification
 
 ## API
 https://scene-classification-stepan.onrender.com/predict
+
+## API
 https://scene-classification-stepan.onrender.com/docs
 
 ## Streamlit-приложение
 
-https://sceneclassification-lnhyeqjtn42vqycdtt5jdh.streamlit.app/
+https://sceneclassification-bfeczeb7bpgfp82pvuhre3.streamlit.app/
