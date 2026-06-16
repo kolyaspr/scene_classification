@@ -101,7 +101,7 @@ https://www.kaggle.com/datasets/puneet6060/intel-image-classification
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/MrQwait/scene_classification
+   git clone https://github.com/kolyaspr/scene_classification
    ```
 
 2. Создайте и активируйте виртуальное окружение:
@@ -128,8 +128,8 @@ https://www.kaggle.com/datasets/puneet6060/intel-image-classification
 6. Откройте в браузере: http://127.0.0.1:8000/
 
 ## API
-
-https://scene-classification-bcyp.onrender.com/docs
+https://scene-classification-stepan.onrender.com/predict
+https://scene-classification-stepan.onrender.com/docs
 
 ## Streamlit-приложение
 

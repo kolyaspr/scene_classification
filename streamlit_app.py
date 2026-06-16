@@ -4,7 +4,7 @@ from PIL import Image
 import matplotlib.pyplot as plt
 
 # API_URL = "http://127.0.0.1:8000/predict" // Для локального запуска
-API_URL = "https://scene-classification-bcyp.onrender.com/predict"
+API_URL = "https://scene-classification-stepan.onrender.com/predict"
 
 st.title("Классификация ландшафтов")
 

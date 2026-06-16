@@ -1,3 +1,6 @@
+# python3 -m venv venv
+# source venv/bin/activate
+
 from fastapi import FastAPI, File, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 import numpy as np
